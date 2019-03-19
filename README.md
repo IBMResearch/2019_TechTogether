@@ -17,3 +17,4 @@ PDF Slides
 1) [Create an IBM Cloud account](https://youtu.be/5Z1T-etUCZc)
 2) [Create an IBM Watson Studio project](https://youtu.be/V3iROjBi-T4)
 3) [Create and run the Jupyter notebook example](https://youtu.be/m4o0R_G-GOc)
+

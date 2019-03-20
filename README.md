@@ -1,7 +1,7 @@
 # 2019 TechTogether Workshop Tutorial
 This repository includes the IBM Research 2019 TechTogether Workshop and tutorial information.
 
-The workshop is scheduled for Friday evening, March 22, 2019.  The workshop will go through the most of the steps outlined in the tutorial.
+The workshop is scheduled for Friday evening, March 22, 2019.  The workshop will go through most of the steps outlined in the tutorial.
 
 ## Tutorial
 This tutorial will show the 2019 TechTogether hackathon participants how to do the following:
@@ -10,7 +10,7 @@ This tutorial will show the 2019 TechTogether hackathon participants how to do t
 3) Create a Deep Learning IBM Watson Studio project.
 4) Create and run an a Jupyter notebook example in the IBM Watson Studio project using IBM Watson Machine Learning.
 
-Use the PDF slides to go through the tutorial on your own or the PDF slides with videos below together.
+Use the PDF slides to go through the tutorial on your own or the PDF slides and videos together.
 * [PDF Slides](https://github.com/IBMResearch/2019_TechTogether/blob/master/TechTogether_MNIST_Demo_.pptx)
 
 ### Tutorial Videos

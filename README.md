@@ -17,7 +17,7 @@ This tutorial will show the 2019 TechTogether hackathon participants how to do t
 4) Create and run an a Jupyter notebook example in the IBM Watson Studio project using IBM Watson Machine Learning.
 
 Use the PDF slides to go through the tutorial on your own or the PDF slides and videos together.
-* [PDF Slides](https://github.com/IBMResearch/2019_TechTogether/blob/master/TechTogether_MNIST_Demo_.pptx)
+* [PDF Slides](https://github.com/IBMResearch/2019_TechTogether/blob/master/TechTogether_MNIST_Demo.pptx)
 
 ### Tutorial Videos
 1) [Create an IBM Cloud account](https://youtu.be/5Z1T-etUCZc)

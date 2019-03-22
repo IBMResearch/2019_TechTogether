@@ -3,7 +3,10 @@ This repository includes the IBM Research 2019 TechTogether Workshop and tutoria
 
 The workshop is scheduled for Friday evening, March 22, 2019.  The workshop will go through most of the steps outlined in the tutorial.
 
-## Challenge
+## IBM Research Challenge: 
+### Trusted AI: making AI safer and more fair
+
+Develop and demo an AI application that is fair, and inspires confidence. You can use IBM's open source AI toolkits for fairness and robustness, and Watson Studio deep learning tools. The winning team will produce a creative AI application that people can trust.
 
 
 ## Tutorial

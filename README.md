@@ -29,3 +29,13 @@ This extensible open source [toolkit](http://aif360.mybluemix.net) can help you 
 
 The [Bias in Image based Automatic Gender Classification](https://github.com/IBMResearch/2019_TechTogether/blob/master/Tutorial_Gender_Classification_example.ipynb) Jupyter notebook was modified to run in Watson Studio.  It is based on the original AIF360 [notebook](https://nbviewer.jupyter.org/github/IBM/AIF360/blob/master/examples/tutorial_gender_classification.ipynb) example.
 
+### How to use
+1) [Create an IBM Cloud account](https://youtu.be/5Z1T-etUCZc)
+2) [Create an IBM Watson Studio project](https://youtu.be/V3iROjBi-T4)
+3) Open the Cloud object storage service instance and create a bucket called utkface
+4) Download the [UTKFace](https://susanqq.github.io/UTKFace/) aligned and cropped images [dataset](https://drive.google.com/drive/folders/0BxYys69jI14kU0I1YUQyY1ZDRUE)
+5) Upload the crop_part1.tar.gz into the utkface bucket
+5) Open the Watson Studio project created in step #2 and add a new notebook to the project.
+6) Download the [Bias in Image based Automatic Gender Classification](https://github.com/IBMResearch/2019_TechTogether/blob/master/Tutorial_Gender_Classification_example.ipynb) notebook and then use the import notebook function from the Watson Studio notebook.
+7) Update the ``` COS_API_KEY_ID = "***", COS_AUTH_ENDPOINT = "***" COS_RESOURCE_CRN = "***" ``` values in the notebook with the appropriate values for your cloud object storage instance.
+8) Run through the steps in the notebook

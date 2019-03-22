@@ -24,6 +24,9 @@ Use the PDF slides to go through the tutorial on your own or the PDF slides and 
 2) [Create an IBM Watson Studio project](https://youtu.be/V3iROjBi-T4)
 3) [Create and run the Jupyter notebook example](https://youtu.be/m4o0R_G-GOc)
 
+### Support
+Use the [IBM channel](https://techtogetherboston19.slack.com/messages/CH5T8D06P/) in the techtogetherboston19 workspace.
+
 ## Using the AI Fairness 360 Open Source Toolkit in Watson Studio
 This extensible open source [toolkit](http://aif360.mybluemix.net) can help you examine, report, and mitigate discrimination and bias in machine learning models throughout the AI application lifecycle. Containing over 70 fairness metrics and 10 state-of-the-art bias mitigation algorithms developed by the research community, it is designed to translate algorithmic research from the lab into the actual practice of domains as wide-ranging as finance, human capital management, healthcare, and education.
 
